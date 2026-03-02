@@ -4,17 +4,17 @@
 
 Project 1: Retail Sales Analysis
 
-🔹 Objective
+ Objective:
 Perform Exploratory Data Analysis (EDA) on retail sales data to uncover insights and trends.
 
- 🔹 Tools Used
+  Tools Used:
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-🔹 Key Insights
+ Key Insights:
 - Identified top-performing states by sales
 - Analyzed sales distribution across categories
 - Checked missing values and cleaned dataset
@@ -22,9 +22,10 @@ Perform Exploratory Data Analysis (EDA) on retail sales data to uncover insights
 
 Project 2: Customer Churn Prediction
 
-🔹 Objective
+ Objective:
 Build a Machine Learning model to predict customer churn.
- 🔹 Tools Used
+
+Tools Used:
 - Python
 - Pandas
 - NumPy
@@ -32,15 +33,15 @@ Build a Machine Learning model to predict customer churn.
 - Matplotlib
 - Seaborn
 
-🔹 Model Used
+ Model Used:
 - Logistic Regression
 
-🔹 Results
+ Results:
 - Accuracy: 82%
 - Evaluated using Confusion Matrix
 - Analyzed churn distribution and important features
 
-Skills Demonstrated
+ Skills Demonstrated:
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
